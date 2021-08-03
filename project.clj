@@ -1,4 +1,4 @@
-(defproject team.sultanov/lein-uber "0.0.1-SNAPSHOT"
+(defproject team.sultanov/lein-uber "0.0.1"
   :description "Leiningen plugin that makes an uberjar only when source files are modified after the last build"
   :url "https://github.com/sultanov-team/lein-uber"
   :license {:name "Eclipse Public License"
