@@ -1,0 +1,7 @@
+.clj-kondo/.cache
+.cpcache
+.idea
+classes
+target
+.java-version
+pom.xml
