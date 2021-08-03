@@ -1,0 +1,18 @@
+== lein-uber
+
+https://github.com/technomancy/leiningen[Leiningen] plugin that makes an uberjar only when source files are modified after the last build.
+
+=== Quick Start Guide
+
+Add `lein-uber` as a plugin dependency to your project or profiles.
+
+[source,clojure]
+----
+:plugins [[lein-uber "0.0.1-SNAPSHOT"]]
+----
+
+And run the following command: `lein uber`
+
+=== License
+
+Distributed under the Eclipse Public License.
