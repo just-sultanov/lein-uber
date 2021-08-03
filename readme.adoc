@@ -8,7 +8,7 @@ Add `lein-uber` as a plugin dependency to your project or profiles.
 
 [source,clojure]
 ----
-:plugins [[lein-uber "0.0.1-SNAPSHOT"]]
+:plugins [[team.sultanov/lein-uber "0.0.1-SNAPSHOT"]]
 ----
 
 And run the following command: `lein uber`
